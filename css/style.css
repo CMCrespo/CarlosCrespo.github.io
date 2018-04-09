@@ -1,2 +1,116 @@
 /* Stylesheet by Carlos M. Crespo, 2018 */
 
+
+
+/* NAVBAR */
+.navbar-default {
+    background: #35424a;
+    min-height:50px;
+    border-bottom: #fd8d3c 3px solid;
+}
+
+/* Navbar title */
+.navbar-default .navbar-brand {
+    color: #35424a;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+/* Navbar hover effects */
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #fd8d3c;
+    background-color: #35424a;
+}
+
+/* Navbar links */
+.navbar-default .navbar-nav > li > a {
+    color: #35424a;
+    font-size: 16px;
+    background-color: #fff;
+}
+
+/* Navbar collapsed styles */
+.navbar-header .navbar-toggle {
+    color: #35424a;
+}
+
+.navbar-header .navbar-toggle:hover,
+.navbar-header .navbar-toggle:focus {
+    background-color: #35424a;
+  
+}
+
+/* resume */
+.maps-thumbnail {
+    background-color: #35424a;
+    border-color: #fd8d3c;
+    border-width: 3px;
+    width: 100%;
+    
+}
+
+.maps-thumbnail:hover {
+    border-color: #4daf4a;
+}
+
+.maps-thumbnail h2{
+    color: #fff;
+    font-size: 12px;  
+}
+
+.maps-title {
+    font-weight: bold;
+}
+
+.maps-description {
+}
+
+.maps-image {
+}
+
+/* resume */
+.page-content {
+    padding-left: 120px;
+}
+
+.page-content h1{
+    font-size: 20px;
+    font-weight: bold;
+    color: #253494;
+}
+
+.page-content p{
+    font-size: 12px;
+}
+.page-content h6{
+    font-size: 12px;
+}
+
+.page-content h5{
+    font-size: 15px;
+    font-style: italic;
+}
+
+/* contact */
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+    opacity: 50%;
+}
+
+
+body{
+    font-family: Verdana, Helvetica, sans-serif;
+    font size: 15px;
+    line-height: 1.5;
+    padding:0;
+    Margin:0;
+    background-color: #bdd7e7;
+}
+
+
