@@ -4,7 +4,7 @@
 
 /* NAVBAR */
 .navbar-default {
-    background: #35424a;
+    background: #fff;
     min-height:50px;
     border-bottom: #fd8d3c 3px solid;
 }
@@ -23,7 +23,7 @@
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
     color: #fd8d3c;
-    background-color: #35424a;
+    background-color: #fff;
 }
 
 /* Navbar links */
